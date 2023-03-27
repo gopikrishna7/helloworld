@@ -1,0 +1,16 @@
+{
+  
+  "name": "hello-node",
+  "version": "1.0.0",
+  "description": "helloworld",
+  "main": "index.js",
+  "devDependencies": {},
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "author": "krishna",
+  "license": "ISC"
+}
