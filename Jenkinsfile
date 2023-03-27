@@ -3,7 +3,7 @@ pipeline{
     stages{
         stage("checkout"){
             steps{
-                git branch: 'main', url: 'https://github.com/gopikrishna7/Helloworld_Nodejs.git'
+                git branch: 'main', url: 'https://github.com/gopikrishna7/helloworld.git'
                 echo "Checkout completed."
             }
         }
